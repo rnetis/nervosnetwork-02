@@ -1,0 +1,1 @@
+transaction.png -> Testnet explorer transaction 2st-lyer-and-account.png -> left side trans action report, right side account list 
